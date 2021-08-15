@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+	<meta charset="UTF-8">
+	<title>Chuck Norris Joke</title>
+</head>
+<body>
+	<h1>Chuck Norris Joke</h1>
+	<p th:text="${joke}">Show Joke here...</p>
+	<!--  This is basically telling thymeleaf that I want the joke attribute of the model
+	to be inserted into the paragraph tag. Show joke here... at runtime will get replaced-->
+	
+</body>
+</html>
