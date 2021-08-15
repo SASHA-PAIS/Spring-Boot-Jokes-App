@@ -30,9 +30,9 @@ $ cd Spring-Boot-Jokes-App
 
 ### The output looks like:
 
-![](docs/Capture2.Jpg)
+![](docs/Capture2.JPG)
 
-![](docs/Capture1.Jpg)
+![](docs/Capture1.JPG)
 
 Every time the page is refreshed, a new quote/joke is generated and displayed to the user!
 
